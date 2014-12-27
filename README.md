@@ -1,6 +1,6 @@
 Fall 2014 Databases Final project:
 
-WHITEBOARD =====================================================
+WHITEBOARD ===============================================================
 By:
 Elaine Chao
 Daniel Kim (Chang Bum Kim)
